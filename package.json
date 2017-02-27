@@ -1,0 +1,16 @@
+{
+  "name": "fcc_3",
+  "version": "1.0.0",
+  "description": "free code camp backend cert first task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ihmccd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "heroku": "^0.2.0",
+    "nodemon": "^1.11.0"
+  }
+}
